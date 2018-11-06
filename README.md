@@ -9,6 +9,6 @@ On the other hand, the remaining members of the group decide to divide the homew
 
 As a result, we have a Jupiter book that contains all the work done by both of us. 
 
-Originally, each question was answered in a different Jupiter notebook, to facilitate its manipulation due to the amount of data. Unfortunately we did not foresee that this was not the best stategy for the final submition of this homework. We apologize then, for the duplication of information and for the heavyness of the file.
+Originally, each question was answered in a different Jupiter notebook to facilitate its manipulation due to the amount of data. Unfortunately we did not foresee that this was not the best stategy for the final submition of this homework. We apologize then, for the duplication of information and for the heavyness of the file.
 
 Enjoy!
