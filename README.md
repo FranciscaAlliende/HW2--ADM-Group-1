@@ -7,7 +7,7 @@ On the other hand, the remaining members of the group decide to divide the homew
 * Francisca Alliende --> RQ2, RQ3, RQ5 and CRQ1
 * Yousef Abbar -->  RQ1, RQ4 and CRQ2
 
-As a result, we have a Jupiter book that contains all the work done by both of us. 
+As a result, we have a Jupiter book that contains all the work done by both of us, except the chropleth map of question CRQ2 which for technical reasons is in jpeg format, and not in an html file or directly in the Jupiter Noteboook, as would be ideal.
 
 Originally, each question was answered in a different Jupiter notebook to facilitate its manipulation due to the amount of data. Unfortunately we did not foresee that this was not the best stategy for the final submition of this homework. We apologize then, for the duplication of information and for the heavyness of the file.
 
